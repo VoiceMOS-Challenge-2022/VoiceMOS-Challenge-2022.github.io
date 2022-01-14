@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## The VoiceMOS Challenge
 
-You can use the [editor on GitHub](https://github.com/VoiceMOS-Challenge-2022/VoiceMOS-Challenge-2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Human listening tests are the gold standard for evaluating synthesized speech.  Objective measures of speech quality have low correlation with human ratings, and the generalization abilities of current data-driven quality prediction systems suffer significantly from domain mismatch.  The VoiceMOS Challenge aims to encourage research in the area of automatic prediction of Mean Opinion Scores (MOS) for synthesized speech.   This challenge has two tracks:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ * Main track: We recently collected a large-scale dataset of MOS ratings for a large variety of text-to-speech and voice conversion systems spanning many years, and this challenge releases this data to the public for the first time as the main track dataset.
+ * Out-of-domain track: The data for this track comes from a different listening test from the main track.  The purpose of this track is to study the generalization ability of proposed MOS prediction models to a different listening test context.  A smaller amount of labeled data is made available to participants, and unlabeled audio samples from the same listening test are made available as well, to encourage exploration of unsupervised and semi-supervised approaches.
 
-### Markdown
+Participation is open to all.  The main track is required for all participants, and the out-of-domain track is optional.  Participants in the challenge are strongly encouraged to submit papers to the special session.  The focus of the special session is on understanding and comparing MOS prediction techniques using a standardized dataset.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Participate
 
-```markdown
-Syntax highlighted code block
+To participate in the challenge, you need to complete these two steps:
 
-# Header 1
-## Header 2
-### Header 3
+1. Make an account on CodaLab and register for the challenge here:  https://codalab.lisn.upsaclay.fr/competitions/695  Please only register one account for your team.  Please also be patient as registration needs to be manually approved; we will try to approve all registrations within a day.
 
-- Bulleted
-- List
+2. Fill out this Google Form here about your team:  https://docs.google.com/forms/d/e/1FAIpQLSfvXt5hLRmiICN2SwmInWAAStgCtwC6a8XyzITZ6bt-2gt1HQ/viewform
+  We use this information to match your CodaLab account to your team.
+  
+Once your account is approved on CodaLab, you will be able to see information about how to download the data, etc.
 
-1. Numbered
-2. List
+## Schedule
 
-**Bold** and _Italic_ and `Code` text
+The schedule for the challenge is as follows:
 
-[Link](url) and ![Image](src)
-```
+* Release of main track and out-of-domain training data: current
+* Release of evaluation data / start of test phase: February 21, 2022
+* Test phase results submission deadline: February 28, 2022
+* Results sent to participant: March 7, 2022
+* Interspeech Paper submission deadline: March 21, 2022
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Organizers
 
-### Jekyll Themes
+* Wen-Chin Huang (Nagoya University, Japan)
+* Erica Cooper (National Institute of Informatics, Japan)
+* Yu Tsao (Academia Sinica, Taiwan)
+* Hsin-Min Wang (Academia Sinica, Taiwan)
+* Tomoki Toda (Nagoya University, Japan)
+* Junichi Yamagishi (National Institute of Informatics, Japan)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VoiceMOS-Challenge-2022/VoiceMOS-Challenge-2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
