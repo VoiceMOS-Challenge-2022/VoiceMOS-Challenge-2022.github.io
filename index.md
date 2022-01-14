@@ -5,7 +5,7 @@ Human listening tests are the gold standard for evaluating synthesized speech.  
  * Main track: We recently collected a large-scale dataset of MOS ratings for a large variety of text-to-speech and voice conversion systems spanning many years, and this challenge releases this data to the public for the first time as the main track dataset.
  * Out-of-domain track: The data for this track comes from a different listening test from the main track.  The purpose of this track is to study the generalization ability of proposed MOS prediction models to a different listening test context.  A smaller amount of labeled data is made available to participants, and unlabeled audio samples from the same listening test are made available as well, to encourage exploration of unsupervised and semi-supervised approaches.
 
-Participation is open to all.  The main track is required for all participants, and the out-of-domain track is optional.  Participants in the challenge are strongly encouraged to submit papers to the special session.  The focus of the special session is on understanding and comparing MOS prediction techniques using a standardized dataset.
+Participation is open to all.  The main track is required for all participants, and the out-of-domain track is optional.  This challenge has preliminarily been accepted as a special session for Interspeech 2022, and participants are strongly encouraged to submit papers to the special session.  The focus of the special session is on understanding and comparing MOS prediction techniques using a standardized dataset.
 
 ## Participate
 
