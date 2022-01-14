@@ -9,11 +9,11 @@ Participation is open to all.  The main track is required for all participants, 
 
 ## Participate
 
-To participate in the challenge, you need to complete these two steps:
+To participate in the challenge, you need to complete **both** of these two steps:
 
-1. Make an account on CodaLab and register for the challenge here:  https://codalab.lisn.upsaclay.fr/competitions/695  Please only register one account for your team.  Please also be patient as registration needs to be manually approved; we will try to approve all registrations within a day.
+1. Make an account on CodaLab and register for the challenge [here](https://codalab.lisn.upsaclay.fr/competitions/695).  Please only register one account for your team.  Please also be patient as registration needs to be manually approved; we will try to approve all registrations within a day.
 
-2. Fill out this Google Form here about your team:  https://docs.google.com/forms/d/e/1FAIpQLSfvXt5hLRmiICN2SwmInWAAStgCtwC6a8XyzITZ6bt-2gt1HQ/viewform
+2. Fill out [this Google Form here](https://docs.google.com/forms/d/e/1FAIpQLSfvXt5hLRmiICN2SwmInWAAStgCtwC6a8XyzITZ6bt-2gt1HQ/viewform) about your team.
   We use this information to match your CodaLab account to your team.
   
 Once your account is approved on CodaLab, you will be able to see information about how to download the data, etc.
