@@ -1,5 +1,8 @@
 ## The VoiceMOS Challenge 2022
 
+**The VoiceMOS Challenge 2022 has ended!  Material from the challenge will remain available online.**
+**Read our summary paper of the challenge [here](https://arxiv.org/abs/2203.11389).**
+
 Human listening tests are the gold standard for evaluating synthesized speech.  Objective measures of speech quality have low correlation with human ratings, and the generalization abilities of current data-driven quality prediction systems suffer significantly from domain mismatch.  The VoiceMOS Challenge aims to encourage research in the area of automatic prediction of Mean Opinion Scores (MOS) for synthesized speech.   This challenge has two tracks:
 
  * Main track: We recently collected a large-scale dataset of MOS ratings for a large variety of text-to-speech and voice conversion systems spanning many years, and this challenge releases this data to the public for the first time as the main track dataset.
