@@ -14,6 +14,8 @@ Participation is open to all.  The main track is required for all participants, 
 
 The challenge has ended, but you can still access the CodaLab challenge page [here](https://codalab.lisn.upsaclay.fr/competitions/695).
 
+You can also find the BVCC dataset that was used in the challenge [here](https://zenodo.org/record/6572573#.Yphw5y8RprQ).
+
 <!-- To participate in the challenge, you need to complete **both** of these two steps:
 
 1. Make an account on CodaLab and register for the challenge [here](https://codalab.lisn.upsaclay.fr/competitions/695).  Please only register one account for your team.  Please also be patient as registration needs to be manually approved; we will try to approve all registrations within a day.
