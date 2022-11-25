@@ -10,6 +10,22 @@ Human listening tests are the gold standard for evaluating synthesized speech.  
 
 Participation is open to all.  The main track is required for all participants, and the out-of-domain track is optional.  This challenge has preliminarily been accepted as a special session for Interspeech 2022, and participants are strongly encouraged to submit papers to the special session.  The focus of the special session is on understanding and comparing MOS prediction techniques using a standardized dataset.
 
+## Papers
+
+The following papers were presented at the VoiceMOS Challenge special session at Interspeech 2022:
+
+* ["The VoiceMOS Challenge 2022."](https://www.isca-speech.org/archive/interspeech_2022/huang22f_interspeech.html) Wen Chin Huang (Nagoya University), Erica Cooper (National Institute of Informatics), Yu Tsao (Academia Sinica), Hsin-Min Wang (Academia Sinica), Tomoki Toda (Nagoya University) and Junichi Yamagishi (National Institute of Informatics)
+* ["The ZevoMOS entry to VoiceMOS Challenge 2022."](https://www.isca-speech.org/archive/interspeech_2022/stan22_interspeech.html) Adriana Stan (Communications Department, Technical University of Cluj-Napoca)
+* ["UTMOS: UTokyo-SaruLab System for VoiceMOS Challenge 2022."](https://www.isca-speech.org/archive/interspeech_2022/saeki22c_interspeech.html) Takaaki Saeki (The University of Tokyo), Detai Xin (The University of Tokyo), Wataru Nakata (The University of Tokyo), Tomoki Koriyama (The University of Tokyo), Shinnosuke Takamichi (University of Tokyo) and Hiroshi Saruwatari (The University of Tokyo)
+* ["Automatic Mean Opinion Score Estimation with Temporal Modulation Features on Gammatone Filterbank for Speech Assessment."](https://www.isca-speech.org/archive/interspeech_2022/nguyen22b_interspeech.html) Huy Nguyen (Japan Advanced Institute of Science and Technology), Kai Li (Japan advanced institute of science and technology) and Masashi Unoki (JAIST)
+* ["Using Rater and System Metadata to Explain Variance in the VoiceMOS Challenge 2022 Dataset."](https://www.isca-speech.org/archive/interspeech_2022/chinen22_interspeech.html) Michael Chinen (Google), Jan Skoglund (Google), Chandan K. A. Reddy (Google), Alessandro Ragano (University College Dublin) and Andrew Hines (University College Dublin)
+* ["DDOS: A MOS Prediction Framework utilizing Domain Adaptive Pre-training and Distribution of Opinion Scores."](https://www.isca-speech.org/archive/interspeech_2022/tseng22b_interspeech.html) Wei-Cheng Tseng (National Taiwan University), Wei-Tsung Kao (National Taiwan University) and Hung-yi Lee (National Taiwan University (NTU)
+
+The following team papers were also presented at Interspeech 2022:
+* ["A Transfer and Multi-Task Learning based Approach for MOS Prediction."](https://www.isca-speech.org/archive/interspeech_2022/tian22d_interspeech.html) Xiaohai Tian, Kaiqi Fu, Shaojun Gao, Yiwei Gu, Kai Wang, Wei Li and Zejun Ma
+* ["Fusion of Self-supervised Learned Models for MOS Prediction."](https://www.isca-speech.org/archive/interspeech_2022/yang22o_interspeech.html) Zhengdong Yang, Wangjin Zhou, Chenhui Chu, Sheng Li, Raj Dabre, Raphael Rubino and Yi Zhao
+
+
 ## Participate
 
 The challenge has ended, but you can still access the CodaLab challenge page [here](https://codalab.lisn.upsaclay.fr/competitions/695).
