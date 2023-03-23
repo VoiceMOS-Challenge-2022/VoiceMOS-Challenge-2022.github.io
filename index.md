@@ -1,3 +1,7 @@
+## Announcement
+
+The VoiceMOS Challenge 2023 will be announced soon!  The 2023 challenge will focus on real-world out-of-domain MOS prediction tasks.  Watch this space!
+
 ## The VoiceMOS Challenge 2022
 
 **The VoiceMOS Challenge 2022 has ended!  Material from the challenge will remain available online.**
